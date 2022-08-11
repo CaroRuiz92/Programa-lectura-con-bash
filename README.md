@@ -23,7 +23,7 @@ Contador de líneas en blanco.
 
 Si se quiere ejecutar a través de Dcoker, se pueden utilizar los siguientes comandos en la consola:
 
-sudo docker build -t tpedp1 .
-sudo docker un -it tpedp1
+- sudo docker build -t tpedp1 .
+- sudo docker un -it tpedp1
 
 Hecho esto, se podrá explorar el programa a través de su menú y salir con la opción correspondiente.
