@@ -3,20 +3,20 @@
 Este proyecto se encarga de la lectura y análisis de textos ubicados en la carpeta "Texto". Los scripts desarrollados para tal tarea están escritos en linux bash y se ubican en la carpeta "Codigos".
 Se apunta a analizar los siguientes aspectos que también están señalados en el archivo "Intro.txt":
 
-1-statsWords.sh
+1-statsWords.sh ->
 Indicador de longitud de palabras (la más larga, la más corta y el promedio de longitud).
 
-2-statsUsageWords.sh
+2-statsUsageWords.sh ->
 Indicador de uso de palabras, de al menos cuatro letras.
 Top de las 10 más usadas.
 
-3-findNames.sh
+3-findNames.sh ->
 Identificador de palabras que comienzan con mayúscula (sean nombres propios o no).
 
-4-statsSentences.sh
+4-statsSentences.sh ->
 Indicador de longitud de oraciones (la más larga, la más corta y la de longitud promedio).
 
-5-blankLinesCounter.sh
+5-blankLinesCounter.sh ->
 Contador de líneas en blanco.
 
 # Dockerfile
